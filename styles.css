@@ -1,0 +1,35 @@
+/* Intro to CSS */
+
+body {
+	font-family: fantasy;
+	background-color: lightseagreen;
+	color: #855e24;
+	text-indent: 4em;
+	border-style: dotted;
+}
+
+h1 {
+    font-size: 6em;
+    font-weight: lighter;
+    color: #795548;
+}
+
+a {
+    color: #e2ce1b;
+    cursor: grab;
+    text-decoration: dotted;
+}
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+ul	{
+	font-weight:bolder;
+	color: #ffffff;
+	
+}
